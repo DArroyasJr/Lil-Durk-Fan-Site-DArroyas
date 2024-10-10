@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lil Durk | About</title>
+    <meta name="description" content="This is the description">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="store.html">STORE</a></li>
+          <Li><a href="about.html">ABOUT</a></Li>
+        </ul>
+      </nav>
+      <hr>
+      <h1>Lil Durk</h1>
+    </header>
+    
+    <section>
+      <h2>ABOUT</h2>
+      <p>Lil Durk, born Durk Derrick Banks on October 19, 1992, in Chicago, is a prominent figure in the world of modern hip-hop. Emerging from the gritty streets of the Windy City, Durk's raw and emotive storytelling captures the essence of urban struggle and triumph. His breakthrough came with his 2011 mixtape "Life Ain't No Joke," but it was his subsequent releases, including "Signed to the Streets" and "The Voice," that solidified his status as a key voice in rap. Known for his melodic flow and poignant lyrics, Lil Durk blends personal narrative with broader social commentary, resonating with fans worldwide. His influence extends beyond music, as he actively engages in philanthropy and community support, striving to uplift those around him while navigating the challenges of fame and personal growth.</p>
+      <img src="https://hfvoyager.com/wp-content/uploads/2024/02/lil-durk-image-.webp" width=450>
+      
+      <p>Lil Durk continues to make waves in the music industry with his innovative approach to blending drill music with melodic elements. His collaborations with top artists and producers showcase his versatility and ability to adapt to evolving trends while maintaining his distinct sound. Durk's entrepreneurial spirit is evident through his own label, Only the Family (OTF), which supports emerging artists and expands his influence beyond his solo career. He has also made headlines for his impactful activism, including efforts to address social issues and support community initiatives. As he looks to the future, Lil Durk remains a driving force in hip-hop, pushing creative boundaries and solidifying his legacy as a leading voice in the genre.</p>
+    </section>
+    
+    <footer>
+      <h3>Lil Durk</h3>
+      <ul>
+        <li>
+          <a href="https://www.youtube.com/@LilDurk" target="_blank">
+            <img src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721679-youtube_108064.png" width="100">
+          </a>
+        </li>
+        <li>
+          <a href="https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7" target="_blank">
+            <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/spotify_alt_macos_bigsur_icon_189704.png" width="100">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com" target="_blank">
+            <img src="https://cdn.icon-icons.com/icons2/285/PNG/256/social_facebook_box_blue_256_30649.png" width="100">
+          </a>
+        </li>
+      </ul>
+    </footer>
+  </body>
+</html>
